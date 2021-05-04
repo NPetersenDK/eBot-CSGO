@@ -47,6 +47,9 @@ MAP[] = "de_train"
 MAP[] = "de_mirage"
 MAP[] = "de_cbble"
 MAP[] = "de_overpass"
+MAP[] = "de_vertigo"
+MAP[] = "de_ancient"
+
 
 [WORKSHOP IDs]
 
